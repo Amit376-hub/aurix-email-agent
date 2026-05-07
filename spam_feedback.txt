@@ -1,0 +1,438 @@
+SPAM::Your job alert for Web Developer in 110001          
+New jobs match your preferences.
+          
+Javascript Developer - Remote Work
+BairesDev
+Delhi, India
+View job: https://www.linkedin.com/comm/jobs/view/4408925077/?trackingId=w851gs3GU7Kk9mdC%2BocqEQ%3D%3D&refId=KPCGU1DlcYS1tZVgx1xz0w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B7vl5shFHQm6V2jqOlJCdCA%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=0pcM-vNCTKbsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_0_jobid_4408925077_ssid_7734721234_fmid_oq1abk~motk7cdv~qg&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_0_jobid_4408925077_ssid_7734721234_fmid_oq1abk~motk7cdv~qg-null-oq1abk~motk7cdv~qg-null-null&eid=oq1abk-motk7cdv-qg&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWVmYjQ4YmNmZDg0NTk5YWQ4YTYyN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5NDBlYmVmZWI3Y2Y5YzI5ODA3NGI4NmViMmNhMzQwNmEzZDFjNjFmNjQyM2NjZTc0LDEsMQ%3D%3D
+
+---------------------------------------------------------
+  
+          
+Front End Developer
+Cogentix Systems
+Noida
+View job: https://www.linkedin.com/comm/jobs/view/4409305382/?trackingId=JAWJ3r3wTV%2Bx9uWDWGcOyQ%3D%3D&refId=KPCGU1DlcYS1tZVgx1xz0w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B7vl5shFHQm6V2jqOlJCdCA%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=0pcM-vNCTKbsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_1_jobid_4409305382_ssid_7734721234_fmid_oq1abk~motk7cdv~qg&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_1_jobid_4409305382_ssid_7734721234_fmid_oq1abk~motk7cdv~qg-null-oq1abk~motk7cdv~qg-null-null&eid=oq1abk-motk7cdv-qg&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWVmYjQ4YmNmZDg0NTk5YWQ4YTYyN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5NDBlYmVmZWI3Y2Y5YzI5ODA3NGI4NmViMmNhMzQwNmEzZDFjNjFmNjQyM2NjZTc0LDEsMQ%3D%3D
+
+---------------------------------------------------------
+  
+          
+Senior Web Developer
+ByteWink
+Noida
+View job: https://www.linkedin.com/comm/jobs/vie
+SPAM::<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&amp;display=swap" rel="stylesheet">
+<style>
+body {margin:0; padding:0; font-family:'Roboto', Arial, Helvetica, sans-serif;}
+table {border-collapse:collapse;}
+img {display:block; max-width:100%;}
+
+@media only screen and (max-width:600px) {
+  .container {width:95% !important;}
+  .hero-text {font-size:22px !important; line-height:28px !important;}
+  .button {width:85% !important;}
+}
+</style>
+</head>
+
+<body style="background:#EEF2F6;">
+
+<!-- Preheader Text -->
+<div style="display:none; max-height:0px; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:#ffffff; opacity:0;">
+Vouchers for 15–50 referrals. iPad for the top rank
+</div>
+
+<div style="font-size:0.1px;">
+<img src="https://logs.naukri.com/collectorapi/v1/uba?data=%7B%22deviceType%22%3A%22WEB%22%2C%22additionalParams%22%3A%7B%7D%2C%22campaignId%22%3A%227063%22%2C%22communicationId%22%3A%2269fac12ecdaec9ae06ce6e76%22%2C%22communicationType%22%3A%22mail%22%2C%22journeyId%22%3A%226749_20260506%22%2C%22userId%22%3A%22337859486%22%2C%22eventCode%22%3A%226749_aincatrefer_newuesrs_careerverse_referral_mailer_start_a01c_mail%22%2C%22encEmail%22%3A%22eaba8434d3c5fab282737bfafed0c4bec7c6ecea66402cd523408d8ae1bb3e86abb2d629263294f708b05ee52a8d9794%22%2C%22mailType%22%3A%22nc_alert%22%2C%22recipientType%22%3A%22jobseeker%22%2C%22mailerId%22%3A%221058019%22%2C%22requestId%22%3A%2269fac129168bfbcae89ad9f1%22%2C%22appId%22%3A%22456%22%2C%22segmentId%22%3
+SPAM::
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" style="width: 100%;" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;" name="viewport" />
+    <meta content="width=device-width" name="viewport" />
+    <meta content="noindex, no follow" name="robots" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <title>LinkedIn</title>
+    <style type="text/css">
+      .ExternalClass {
+        width: 100%;
+      }
+      
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%;
+      }
+      
+      table td p {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-size: inherit;
+        padding: 0;
+        margin: 0;
+        color: black;
+        line-height: 100%;
+      }
+      
+      .applelinks a {
+        text-decoration: none;
+        color: inherit !important;
+      }
+      
+      a {
+        color: black;
+        text-decoration: none;
+      }
+      
+      a,
+      a:link,
+      a:visited {
+        color: inherit;
+        text-decoration: none;
+      }
+      
+      span.MsoHyperlink {
+        mso-style-priority: 99;
+        color: inherit;
+      }
+      
+      span.MsoHyperlinkFollowed {
+        mso-style-priority: 99;
+        color: inherit;
+      }
+      
+      img {
+        border: 0px !important;
+      }
+      
+      body {
+        font-family: Segoe UI, Arial, sans-serif;
+        font-
+NOT_SPAM::<p>Dear Learner,</p><p>This is an important reminder to complete your <b>SWAYAM January 2026 Semester exam registration</b> at the earliest.</br>The <b>registration deadline is 11 May 2026 (11:50 PM)</b>. If you are planning to appear for the certification exam, please ensure that you submit your application and complete the fee payment on time.</p><p><b>Apply here:</b></p><p>https://exams.nta.nic.in/swayam/<br></p><p>You can also access the registration link from the <b>“My Courses”</b> section on the SWAYAM portal. We strongly recommend not waiting until the last day to avoid potential delays or technical issues.</p><p>Kindly ignore this email if you have already completed your registration.</p><br/>Regards,<br><b>SWAYAM Team</b><br><br><b>Note:</b> This is an automated email. Please do not respond to this email.<br><br><b>Note:</b> Candidates must use the same email ID throughout the course duration — for enrolling in course(s) and registering for exam(s). Assignments submitted through any other email ID will not be considered for the final consolidated score and certification. (Email ID should be same as used for enrollment of SWAYAM courses. (https://swayam.gov.in/)<img src="https://u10190948.ct.sendgrid.net/wf/open?upn=u001.TJakycgXrF2mRMi6m-2FKimM1BNwf2PyusNsGMG2GU5nMQGJ9N8-2FTruweWnZAe0d-2F8UiRdIaveI7Ea8YSSqJTilgXuXRx1M2DMqTkHVywsy7EOBTMwNRtsKdh2aBL3EzIqPTmnN80wyoMznLfIgWjOgQjGik8diCN8csAAsu9DcjVuQserRNy979sr-2FtfylGeLWDLI6Lu8iC5Rla5-2Bie98fqqRHszD1G1hi-2F8pPc7-2BvEM-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+
+NOT_SPAM::Do you know Panchal Himanshu?
+
+Yes, connect: https://www.linkedin.com/comm/mynetwork/send-invite/panchal-himanshu-developer/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BxL%2B%2FdTu%2BRGqWksxP9FLKfA%3D%3D&midSig=2nDZUA31yCaIg1&midToken=AQFnRPP0zD45Xg&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A757629168-null-oq1abk%7Emosq73te%7Es0-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A757629168&_sig=1bY1_ybPKCaIg1
+
+
+More people you may know
+            
+    Ansh Kandari
+IT Support Associate @Marscosmetics | ISO 27001 Certified | Oracle Certified | AWS Certified | Cisco Networks Certified | Ex Azure IOT Intern | AWS | Networking & Cloud | Research paper author | AI&BigData | Bca Graduate
+https://www.linkedin.com/comm/mynetwork/send-invite/ansh-kandari-33b2a5270/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BxL%2B%2FdTu%2BRGqWksxP9FLKfA%3D%3D&midSig=2nDZUA31yCaIg1&midToken=AQFnRPP0zD45Xg&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1111500191-null-oq1abk%7Emosq73te%7Es0-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1111500191&_sig=1FqgdeyumCaIg13 mutual connections
+            
+    Raj Patel
+Wordpress & React.js Developer
+https://www.linkedin.com/comm/mynetwork/send-invite/raj-patel-725v/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BxL%2B%2FdTu%2BRGqWksxP9FLKfA%3D%3D&midSig=2nDZUA31yCaIg1&midToken=AQFnRPP0zD45Xg&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A942566420-null-oq1abk%7Emosq73te%7Es0-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A942566420&_sig=3SQTRVeqGCaIg1
+            
+    Sourav Sen Gupta
+BUSINESSES DEVELOPMENT EXECUTIVE | HOUSE OF CREASIP
+https://www.linkedin.com/comm/mynetwork/send-invite/souravsengupta66/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BxL%2B%2FdTu%2BRGqWksxP9FLKfA%3D%3D&midSig=2nDZUA31yCaIg1&midToken=AQFnRPP0zD45Xg&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Al
+NOT_SPAM::----------------------------------------
+Hiring trends for Frontend Developer roles
+----------------------------------------
+
+
+7% drop in the India job market in the past week, but new jobs are still available:
+
+1.4K
+
+New job openings in the India in the past week
+
+View job openingshttps://www.linkedin.com/comm/jobs/search/?keywords=Frontend+Developer&geoId=102713980&lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BYxfabyT2RsO6mYFZCNXfUw%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=3pG1Xpjt8KaIg1&trk=eml-email_career_insights_01-main~module~text-0-view~job~openings~text&trkEmail=eml-email_career_insights_01-main~module~text-0-view~job~openings~text-null-oq1abk~moslws0x~jx-null-null&eid=oq1abk-moslws0x-jx&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWUwYmQ4N2NhZDI0NTljYWI4NzYzN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5NGRiNGQxODE1MmI5Y2Y4YTZhNTY5MTk0ZmM1MDg3MjY5YmExZmFlYjQwNmJhNTVkLDEsMQ%3D%3D
+  
+
+
+People with similar roles applied to these jobs
+----------------------------------------
+
+Front-end Developer Intern
+Hyperqube Ionic · New DelhiHyperqube Ionic · New Delhi (Remote)
+
+
+Viewhttps://www.linkedin.com/comm/jobs/view/4403004354/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BYxfabyT2RsO6mYFZCNXfUw%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=3pG1Xpjt8KaIg1&trk=eml-email_career_insights_01-top~jobs~applied~row~1-0-view~job&trkEmail=eml-email_career_insights_01-top~jobs~applied~row~1-0-view~job-null-oq1abk~moslws0x~jx-null-null&eid=oq1abk-moslws0x-jx&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWUwYmQ4N2NhZDI0NTljYWI4NzYzN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5NGRiNGQxODE1MmI5Y2Y4YTZhNTY5MTk0ZmM1MDg3MjY5YmExZmFlYjQwNmJhNTVkLDEsMQ%3D%3D
+Digital - Staff
+EY · GurgaonEY · Gurgaon (On-site)
+
+
+Viewhttps://www.linkedin.com/comm/jobs/view/4393892255/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BYxfabyT2RsO6mYFZCNXfUw%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=3pG1Xpjt8KaIg1&trk=eml-email_career_insights_01-top~jobs~applied~row~2-0-view~job&trkEmail=eml-email
+NOT_SPAM::<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', Arial, Helvetica, sans-serif;
+        }
+
+        @media only screen and (max-width:479px) {}
+    </style>
+</head>
+
+<body aria-disabled="false" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1149.0" data-new-gr-c-s-loaded="14.1149.0">
+    <div style="font-size:0.1px;">
+        <img src="https://logs.naukri.com/collectorapi/v1/uba?data=%7B%22deviceType%22%3A%22WEB%22%2C%22additionalParams%22%3A%7B%7D%2C%22campaignId%22%3A%226332%22%2C%22communicationId%22%3A%2269f9cab77eaf6336291c10b7%22%2C%22communicationType%22%3A%22mail%22%2C%22journeyId%22%3A%223298_20260505%22%2C%22userId%22%3A%224947531%22%2C%22eventCode%22%3A%223298_js_jml_1pm_email_start_08d2_mail%22%2C%22encEmail%22%3A%22eaba8434d3c5fab282737bfafed0c4bec7c6ecea66402cd523408d8ae1bb3e86abb2d629263294f708b05ee52a8d9794%22%2C%22mailType%22%3A%22jobhai_promotional%22%2C%22recipientType%22%3A%22jobseeker%22%2C%22mailerId%22%3A%221056917%22%2C%22requestId%22%3A%2269f9ca64164aa62d8c3537a2%22%2C%22appId%22%3A%22456%22%2C%22segmentId%22%3A%22102498%22%2C%22tenantId%22%3A%224%22%2C%22eventName%22%3A%22communicationOpen%22%2C%22parentActivityId%22%3A%22887151%22%2C%22parentJourneyId%22%3A%223298%22%2C%22initTime%22%3A1777977956296%7D" height="0px" width="0px">
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPAM::View web version:
+https://t3.mail.adobe.com/r/?id=td5f6beba-051b-4144-9bef-e7675a671799,15b231f3,37a9f0&e=cDE9JTQwVWR3WE51JTJCayUyRnZTaHBlZUF5U3ZKdXBiJTJGbSUyRlVNdjNEMnFEUm1iMiUyQld3MTM4QWpTU29lZTE3U2VLbGFjQlhDd0hoUjBOVnV3MWoxY3B5QlA4SW1XcW5zZzhwUnZLWlZHbmN0YUQlMkZiSEdmcUElM0Q&s=Hc9j9TAdnCKGAZFXSWIJ0bqe9ukG7Wti1A9P80x2-uI
+
+Unfortunately, your email client cannot display HTML or your settings are turned off. To view this email, please click or copy and paste the link above into your browser.
+******************************************************************
+This is a marketing email from Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Park, Dublin 24, Ireland.
+
+Click on the following link to unsubscribe, or send us an unsubscribe request to the postal address above.
+Unsubscribe:  https://t3.mail.adobe.com/r/?id=td5f6beba-051b-4144-9bef-e7675a671799,15b231f3,37a9f1&e=cDE9JTQwRUlQbldWRDVtcEhaamNKM2k0WFZMSDlwTENacFBub0k3cHUwRG5xdmdtOCUzRCZwMj0mbG9jPWluJnAzPTI4&s=T1o_a5grhWr5d0rJ4P58UmZxXFOevxo_VoB4HPfqNhQ  
+
+Please review the Adobe Privacy Policy.
+https://t3.mail.adobe.com/r/?id=td5f6beba-051b-4144-9bef-e7675a671799,15b231f3,37a9f2
+
+To ensure future delivery of email, please add mail@mail.adobe.com to your address book, contacts, or safe senders list.
+https://t3.mail.adobe.com/r/?id=td5f6beba-051b-4144-9bef-e7675a671799,15b231f3,37a9f3
+
+Please do not reply to this message. To contact Adobe,find options online.
+https://t3.mail.adobe.com/r/?id=td5f6beba-051b-4144-9bef-e7675a671799,15b231f3,37a9f4
+
+NOT_SPAM::<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><title></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark only"><style type="text/css">body{margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0}@font-face{font-family:ubermovelight;src:url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Light.woff2)format("woff2"),url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Light.woff)format("woff");font-weight:400!important;font-style:normal!important;mso-font-alt:"Arial"}@font-face{font-family:ubermoveregular;src:url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Regular.woff2)format("woff2"),url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Regular.woff)format("woff");font-weight:400!important;font-style:normal!important;mso-font-alt:"Arial"}@font-face{font-family:ubermovemedium;src:url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Medium.woff2)format("woff2"),url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Medium.woff)format("woff");font-weight:400!important;font-style:normal!important;mso-font-alt:"Arial"}@font-face{font-family:ubermovebold;src:url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Bold.woff2)format("woff2"),url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fonts/UberMove-Bold.woff)format("woff");font-weight:400!important;font-style:normal!important;mso-font-alt:"Arial"}@font-face{font-family:ubermovetextlight;src:url(https://d1a3f4spazzrp4.cloudfront.net/emails/2019/global/fo
+NOT_SPAM::<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<!--[if !mso]><!-- -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]-->
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+
+
+<style>
+@media only screen and (min-width: 650px) {
+    
+.p13_mm_offer_tag{font-size:14px!important;line-height:22px!important;}
+.p13_mm_discounted_price{font-size:14px!important;line-height:20px!important;}
+.p13_mm_original_price{font-size:14px!important;line-height:22px!important;}
+.p13_mm_description{font-size:14px!important;line-height:22px!important;}
+.gr_3_merchant{width:31%!important;}
+.gr_4_merchant{width:22%!important;}
+.p2_d_h4{font-size:24px!important;line-height:30px!important;}
+.p13n_deal_l_d_16{font-size:16px!important;line-height:22px!important;}
+.p13n_deal_l_d_24{font-size:20px!important;line-height:26px!important;padding:3px 6px!important;}
+}
+
+
+
+@media only screen and (max-width: 440px){
+   .m_to_50_percentage{width:50%!important;}
+  .temp_td_h5{ font-size: 16px !important; line-height: 22px !important;  }
+  .temp_display_table{display:table !important;}
+  .temp_mob_reset{padding:0!important;}
+  .mobtac {text-align: center !important;}
+  .h3_p1{font-size:20px!important;line-height:26px!important;}
+}
+</style>
+
+<style type="text/css">
+@media only screen and (max-width: 640px){
+   .left_aligned{text-align:left!important;}
+   .mob_h_130{height:130px!important;}
+   .card{height:auto!important;}
+   .img_312{max-width:none!important;}
+}
+
+@media only screen and (max-width: 350px){
+   .mob_h_73{height:73px!important;}
+}
+</style>
+
+
+<style type="text/css">
+a {text-decoration: none;}
+a[x-
+NOT_SPAM::Your job alert for Web Developer in 110001          
+New jobs match your preferences.
+          
+Front End Developer | Noida (WFO)
+CompuGroup Medical SE & Co. KGaA
+Noida
+View job: https://www.linkedin.com/comm/jobs/view/4321965491/?trackingId=TRwn8Y%2FS06YiwxghwSKY5Q%3D%3D&refId=39HFacNBBB2u0tCbanZ7eg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BlRAk%2FZmzTXO9LJ8sZ%2BvMww%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=19HxRcZW1eacg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_0_jobid_4321965491_ssid_7734721234_fmid_oq1abk~mos4rhlk~vn&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_0_jobid_4321965491_ssid_7734721234_fmid_oq1abk~mos4rhlk~vn-null-oq1abk~mos4rhlk~vn-null-null&eid=oq1abk-mos4rhlk-vn&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWUwYmQ4YWNiZDQ0NTliYWM4YjYyN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5NDlmYWRjYzU1Mjg1ZjI5MGY2NzdlYWRhYjliNWYxNjRlOTBmNTgwNGNlZmVmMDdkLDEsMQ%3D%3D
+
+---------------------------------------------------------
+  
+          
+Fullstack Developer
+TELUS Digital
+Noida
+
+This company is actively hiring
+View job: https://www.linkedin.com/comm/jobs/view/4305055617/?trackingId=qQS3ilpk7OKI2PpZN7UQdQ%3D%3D&refId=39HFacNBBB2u0tCbanZ7eg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BlRAk%2FZmzTXO9LJ8sZ%2BvMww%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=19HxRcZW1eacg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_1_jobid_4305055617_ssid_7734721234_fmid_oq1abk~mos4rhlk~vn&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_text_1_jobid_4305055617_ssid_7734721234_fmid_oq1abk~mos4rhlk~vn-null-oq1abk~mos4rhlk~vn-null-null&eid=oq1abk-mos4rhlk-vn&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWUwYmQ4YWNiZDQ0NTliYWM4YjYyN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5NDlmYWRjYzU1Mjg1ZjI5MGY2NzdlYWRhYjliNWYxNjRlOTBmNTgwNGNlZmVmMDdkLDEsMQ%3D%3D
+
+---------------------------------------------------------
+  
+          
+Software Developer, India
+AlgoSec
+NOT_SPAM::<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    }
+
+    @media only screen and (max-width:479px) {}
+  </style>
+</head>
+
+<body style="background:#EEF2F6"><div style="font-size:0.1px;">
+<img src="https://logs.naukri.com/collectorapi/v1/uba?data=%7B%22deviceType%22%3A%22WEB%22%2C%22additionalParams%22%3A%7B%7D%2C%22campaignId%22%3A%226332%22%2C%22communicationId%22%3A%2269f971d54267183f0c3ec760%22%2C%22communicationType%22%3A%22mail%22%2C%22journeyId%22%3A%223332_20260505%22%2C%22userId%22%3A%224947531%22%2C%22eventCode%22%3A%223332_js_new_jml_8am_aa_email_start_d920_mail%22%2C%22encEmail%22%3A%22eaba8434d3c5fab282737bfafed0c4bec7c6ecea66402cd523408d8ae1bb3e86abb2d629263294f708b05ee52a8d9794%22%2C%22mailType%22%3A%22jobhai_promotional%22%2C%22recipientType%22%3A%22jobseeker%22%2C%22mailerId%22%3A%221056239%22%2C%22requestId%22%3A%2269f9718274922925e5e46a9c%22%2C%22appId%22%3A%22456%22%2C%22segmentId%22%3A%22129300%22%2C%22tenantId%22%3A%224%22%2C%22eventName%22%3A%22communicationOpen%22%2C%22parentActivityId%22%3A%22888131%22%2C%22parentJourneyId%22%3A%223332%22%2C%22initTime%22%3A1777955202012%7D" height="0px" width="0px">
+</div>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#EEF2F6" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tbody>
+      <tr>
+        <td valign="top">
+          <table border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="m
+NOT_SPAM::Amitesh, Full Stack Developer & Technical Writer from ScientistsHub is waiting for your response
+        
+Hi Amit, I’d like to join your professional network
+
+Amitesh Maurya
+Full-Stack Developer & Product Engineer | MERN, Next.js, React Native | Production Systems & Mobile Apps | Startup Collaborations | R&D
+Prayagraj
+5 connections in common
+See all connections in common:https://www.linkedin.com/comm/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ADoAADicdUABohANtYyVUiDLufNgcM8vE31KT5I%22%5D&origin=SHARED_CONNECTIONS_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3B9JXMeZyyQ16wHjl9cy2J5w%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=3rQvDnTtjm9Yg1&trk=eml-email_m2m_invite_single_01-connections~in~common~text-0-view~connections&trkEmail=eml-email_m2m_invite_single_01-connections~in~common~text-0-view~connections-null-oq1abk~mos0h6hw~da-null-null&eid=oq1abk-mos0h6hw-da&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWUwYmQ4YmM2ZDI0NTk5YTY4OTZiN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5MTVjYWU1ODk3OTgwZjQ4MWY5Y2NmMWZlNTU3MjRiYWJlMTAyNzE1NmRhZDViY2Q4LDEsMQ%3D%3D
+
+Accept:https://www.linkedin.com/comm/mynetwork/invite-accept/invitationId/7457237637008084992/sharedKey/rNQX9duN/?inviterVanityName=amitesh-maurya&lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3B9JXMeZyyQ16wHjl9cy2J5w%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=3rQvDnTtjm9Yg1&trk=eml-email_m2m_invite_single_01-null-0-null&trkEmail=eml-email_m2m_invite_single_01-null-0-null-null-oq1abk~mos0h6hw~da-null-null&eid=oq1abk-mos0h6hw-da&otpToken=MTMwMTE3ZTQxYjJmYzFjNmIzMmMwZmViNDExOWUwYmQ4YmM2ZDI0NTk5YTY4OTZiN2JjZTA3NmE0YjVlNWZmMGZmZDZkMGU5MTVjYWU1ODk3OTgwZjQ4MWY5Y2NmMWZlNTU3MjRiYWJlMTAyNzE1NmRhZDViY2Q4LDEsMQ%3D%3D
+View profile:https://in.linkedin.com/comm/in/amitesh-maurya?lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3B9JXMeZyyQ16wHjl9cy2J5w%3D%3D&midToken=AQFnRPP0zD45Xg&midSig=3rQvDnTtjm9Yg1&trk=eml-email_m2m_invite_single_01-null-0-null&trkEmail=eml-email_m2m_invi
+NOT_SPAM::[image: Google]
+App password created to sign in to your account
+
+
+kumaramitkumar6209@gmail.com
+If you didn't generate this password for Mail, someone else might be using
+your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=kumaramitkumar6209@gmail.com&continue=https://myaccount.google.com/alert/nt/1777903311614?rfn%3D20%26rfnc%3D1%26eid%3D-1282309104615509964%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+NOT_SPAM::[image: Google]
+App password used to sign in was removed
+
+
+kumaramitkumar6209@gmail.com
+If you didn't remove this password, someone else might be using your
+account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=kumaramitkumar6209@gmail.com&continue=https://myaccount.google.com/alert/nt/1777903297498?rfn%3D269%26rfnc%3D1%26eid%3D5927966145441699932%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
