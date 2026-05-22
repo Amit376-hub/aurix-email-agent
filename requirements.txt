@@ -1,0 +1,7 @@
+streamlit
+opnenai
+python-dotenv
+requests
+pandas
+numpy
+groq

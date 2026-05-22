@@ -1,7 +1,18 @@
 [
   {
-    "timestamp": "2026-05-07T13:22:09.935397",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:01:16.033562",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Don't let Member Days pass you by \ud83d\udc40",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:01:16.957679",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
     "subject": "New jobs matching your profile just dropped \ud83d\udc40",
@@ -11,166 +22,87 @@
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:22:10.651004",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:01:17.669771",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Web Developer Intern at Alpha Media",
+    "subject": "Discover 200 new templates ready for you!",
+    "sender": "marketing@engage.canva.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:01:18.694135",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Web Developer at Accenture in India",
     "sender": "jobalerts-noreply@linkedin.com",
     "is_spam": false,
     "spam_reasons": [],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:22:11.592290",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:01:37.153422",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "You\u2019re officially a Kaggler. Now what?",
-    "sender": "noreply@kaggle.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:22:12.333352",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "How to Pass the TCS NQT Aptitude Test?",
-    "sender": "informationnc@naukri.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:22:30.293974",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "2 profile views",
-    "sender": "messages-noreply@linkedin.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:22:39.979432",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Aditya Bhatia and others share their thoughts on LinkedIn",
-    "sender": "updates-noreply@linkedin.com",
-    "is_spam": true,
-    "spam_reasons": [
-      "Contains spam keywords: \"email\", \"read more\", \"like praise\", \"midtoken\", \"linkedin\" | Matched a previously confirmed spam pattern from feedback history"
-    ],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:22:47.389668",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Love, devotion, destiny\u2014witness it all in cinemas \ud83c\udfa5",
-    "sender": "no-reply@mail.bookmyshow.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:23:04.373171",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "\ud83d\udc49 Fresh jobs picked for you... Take a look \ud83d\udc40",
-    "sender": "hello@jobhai.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:23:16.362374",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Javascript Developer - Remote Work at BairesDev",
-    "sender": "jobalerts-noreply@linkedin.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:23:35.433581",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Win an iPAD by inviting friends",
+    "subject": "Dabur & Sony invite you to AINCAT'26",
     "sender": "eventnc@naukri.com",
     "is_spam": false,
     "spam_reasons": [],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:23:43.246009",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:01:56.235010",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Amit, thanks for being a valued member",
-    "sender": "linkedin@em.linkedin.com",
+    "subject": "A little something to make your next Uber trip even better \ud83d\ude09",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:02:02.235122",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "View SEEMAA YADAAV\u2019s post and your next steps",
+    "sender": "messages-noreply@linkedin.com",
     "is_spam": true,
     "spam_reasons": [
-      "Contains spam keywords: \"noindex, no follow\", \"x-apple-disable-message-reformatting\", \"linkedin\", \"html\" | Matched a previously confirmed spam pattern from feedback history"
+      "Contains spam keywords: \"promotional\", \"email\", \"read more\", \"like praise\", \"midtoken\", \"linkedin\" | Matched a previously confirmed spam pattern from feedback history"
     ],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:23:47.561521",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:02:09.854299",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "SWAYAM January 2026 Semester Registration Open",
-    "sender": "noreply-examinationservices@nic.in",
+    "subject": "Turn a story into a timed shot list",
+    "sender": "noreply@email.openai.com",
     "is_spam": false,
     "spam_reasons": [],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:23:59.398526",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:02:27.580922",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Don\u2019t Miss Out: SWAYAM Exam registration ends in a week",
-    "sender": "no-reply@swayam2.ac.in",
+    "subject": "Quarterly reminder about YouTube\u2019s Terms of Service, Community Guidelines and Privacy Policy\r\n",
+    "sender": "no-reply@youtube.com",
     "is_spam": false,
     "spam_reasons": [],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:24:17.497057",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Amit, add Panchal Himanshu - Wordpress Developer \ud83d\udcac",
-    "sender": "messages-noreply@linkedin.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:24:35.213299",
-    "date": "2026-05-07",
-    "username": "Amit",
-    "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Frontend Developer: Expedia Group and Hyperqube Ionic are hiring",
-    "sender": "messages-noreply@linkedin.com",
-    "is_spam": false,
-    "spam_reasons": [],
-    "replied": false
-  },
-  {
-    "timestamp": "2026-05-07T13:24:55.074385",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:02:47.429155",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
     "subject": "\ud83d\udc49 Fresh jobs picked for you... Take a look \ud83d\udc40",
@@ -180,47 +112,345 @@
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:25:05.224829",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:02:56.212805",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Perfect your photos in seconds!",
-    "sender": "mail@mail.adobe.com",
+    "subject": "You can now request rides for your teen",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:03:15.227726",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Web Developer at Accenture in India",
+    "sender": "jobalerts-noreply@linkedin.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:03:31.419106",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "\ud83d\udcac Amit, add Nandini Chauhan",
+    "sender": "messages-noreply@linkedin.com",
     "is_spam": true,
     "spam_reasons": [
-      "Contains spam keywords: \"view web version\", \"do not reply\", \"email\", \"html\" | Matched a previously confirmed spam pattern from feedback history"
+      "Contains spam keywords: \"email\", \"midtoken\", \"linkedin\", \"html\" | Matched a previously confirmed spam pattern from feedback history"
     ],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:25:15.586490",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:03:31.446379",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Re: Submission of Workshop Photographs \u2013 28 April 2026",
-    "sender": "Madan@grastech.in",
+    "subject": "1 profile view",
+    "sender": "messages-noreply@linkedin.com",
+    "is_spam": true,
+    "spam_reasons": [
+      "Contains spam keywords: \"email\", \"midtoken\", \"linkedin\", \"profile views\" | Matched a previously confirmed spam pattern from feedback history"
+    ],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:03:31.468283",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Discover how Parcel can help with even more business tasks",
+    "sender": "uber@uber.com",
     "is_spam": false,
     "spam_reasons": [],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:25:32.560189",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:03:43.280862",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Submission of Workshop Photographs \u2013 28 April 2026",
-    "sender": "kanishka.kumar@jimsindia.org",
+    "subject": "\ud83d\udc49 Fresh jobs picked for you... Take a look \ud83d\udc40",
+    "sender": "hello@jobhai.com",
     "is_spam": false,
     "spam_reasons": [],
     "replied": false
   },
   {
-    "timestamp": "2026-05-07T13:25:51.740421",
-    "date": "2026-05-07",
+    "timestamp": "2026-05-11T15:04:08.251914",
+    "date": "2026-05-11",
     "username": "Amit",
     "user_email": "kumaramitkumar6209@gmail.com",
-    "subject": "Your Tuesday morning trip with Uber",
-    "sender": "noreply@uber.com",
+    "subject": "You\u2019re playing the wrong career game",
+    "sender": "info@minis.naukri.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:04:13.163187",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Make Mother\u2019s Day a special day",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:04:22.496442",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Funds/Securities Balance",
+    "sender": "nse_alerts@nse.co.in",
+    "is_spam": true,
+    "spam_reasons": [
+      "Contains possible spam keyword: \"html\" | Matched a previously confirmed spam pattern from feedback history | AI analysis: The email requests a sensitive action (entering a password) to access an attachment that is sent without prior request or notice, which is a phishing attempt."
+    ],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:04:22.516745",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "What\u2019s new on Groww? A lot!",
+    "sender": "noreply@groww.in",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:52.385596",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Don't let Member Days pass you by \ud83d\udc40",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:53.088617",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "New jobs matching your profile just dropped \ud83d\udc40",
+    "sender": "hello@jobhai.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:53.577174",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Discover 200 new templates ready for you!",
+    "sender": "marketing@engage.canva.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:54.335813",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Web Developer at Accenture in India",
+    "sender": "jobalerts-noreply@linkedin.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:55.286581",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Dabur & Sony invite you to AINCAT'26",
+    "sender": "eventnc@naukri.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:55.927954",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "A little something to make your next Uber trip even better \ud83d\ude09",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:57.112816",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "View SEEMAA YADAAV\u2019s post and your next steps",
+    "sender": "messages-noreply@linkedin.com",
+    "is_spam": true,
+    "spam_reasons": [
+      "Contains spam keywords: \"promotional\", \"email\", \"read more\", \"like praise\", \"midtoken\", \"linkedin\" | Matched a previously confirmed spam pattern from feedback history"
+    ],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:46:57.128071",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Turn a story into a timed shot list",
+    "sender": "noreply@email.openai.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:47:05.088998",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Quarterly reminder about YouTube\u2019s Terms of Service, Community Guidelines and Privacy Policy\r\n",
+    "sender": "no-reply@youtube.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:47:18.017044",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "\ud83d\udc49 Fresh jobs picked for you... Take a look \ud83d\udc40",
+    "sender": "hello@jobhai.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:47:29.764188",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "You can now request rides for your teen",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:47:38.452810",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Web Developer at Accenture in India",
+    "sender": "jobalerts-noreply@linkedin.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:47:53.230320",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "\ud83d\udcac Amit, add Nandini Chauhan",
+    "sender": "messages-noreply@linkedin.com",
+    "is_spam": true,
+    "spam_reasons": [
+      "Contains spam keywords: \"email\", \"midtoken\", \"linkedin\", \"html\" | Matched a previously confirmed spam pattern from feedback history"
+    ],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:47:53.251503",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "1 profile view",
+    "sender": "messages-noreply@linkedin.com",
+    "is_spam": true,
+    "spam_reasons": [
+      "Contains spam keywords: \"email\", \"midtoken\", \"linkedin\", \"profile views\" | Matched a previously confirmed spam pattern from feedback history"
+    ],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:47:53.268089",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Discover how Parcel can help with even more business tasks",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:48:03.953058",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "\ud83d\udc49 Fresh jobs picked for you... Take a look \ud83d\udc40",
+    "sender": "hello@jobhai.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:48:11.135167",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "You\u2019re playing the wrong career game",
+    "sender": "info@minis.naukri.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:48:24.738887",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Make Mother\u2019s Day a special day",
+    "sender": "uber@uber.com",
+    "is_spam": false,
+    "spam_reasons": [],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:48:30.657945",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "Funds/Securities Balance",
+    "sender": "nse_alerts@nse.co.in",
+    "is_spam": true,
+    "spam_reasons": [
+      "Contains possible spam keyword: \"html\" | Matched a previously confirmed spam pattern from feedback history | AI analysis: The email requests a sensitive action (entering a password) to access an attachment that is sent without prior request or notice, which is a phishing attempt."
+    ],
+    "replied": false
+  },
+  {
+    "timestamp": "2026-05-11T15:48:30.678113",
+    "date": "2026-05-11",
+    "username": "Amit",
+    "user_email": "kumaramitkumar6209@gmail.com",
+    "subject": "What\u2019s new on Groww? A lot!",
+    "sender": "noreply@groww.in",
     "is_spam": false,
     "spam_reasons": [],
     "replied": false
