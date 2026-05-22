@@ -3,6 +3,7 @@ openai
 python-dotenv
 requests
 imapclient
+pyzmail
 pandas
 numpy
 groq
