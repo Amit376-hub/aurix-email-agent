@@ -2,6 +2,7 @@ streamlit
 openai
 python-dotenv
 requests
+imapclient
 pandas
 numpy
 groq
