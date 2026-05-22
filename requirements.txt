@@ -1,5 +1,5 @@
 streamlit
-opnenai
+openai
 python-dotenv
 requests
 pandas
