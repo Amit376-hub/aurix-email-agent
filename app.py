@@ -207,102 +207,213 @@ tab_inbox, tab_report = st.tabs(["📬 Inbox", "📊 Reports"])
 # ================================================================
 #  TAB 1 — INBOX
 # ================================================================
+# ================================================================
+#  TAB 1 — INBOX
+# ================================================================
 with tab_inbox:
 
     col1, col2, col3 = st.columns([1, 2, 1])
+
     with col2:
         check_emails = st.button("📬 Scan Inbox")
 
     if check_emails:
-        st.session_state.replies_generated = 0
-        st.session_state.spam_blocked      = 0
 
-        # ✅ Wipe old logs so reports only reflect this scan
+        st.session_state.replies_generated = 0
+        st.session_state.spam_blocked = 0
+
+        # ✅ Clear old logs
         clear_logs()
 
         with st.spinner("🤖 AURIX scanning inbox..."):
+
             st.session_state.emails = read_unread_emails(
                 st.session_state.user_email,
                 st.session_state.user_password
             )
 
         st.session_state.inbox_count = len(st.session_state.emails)
+
         update_metrics()
 
+    # ============================================================
+    #  EMAIL LOOP
+    # ============================================================
     for idx, email in enumerate(st.session_state.emails):
-        body    = email["body"][:2000]
-        subject = email["subject"]
-        sender = "Unknown"
 
-if email.get("from"):
-    try:
-        sender = email["from"][0][1]
-    except (IndexError, TypeError):
-        sender = str(email["from"])
+        # ---------- Safe Body ----------
+        body = email.get("body", "")
 
+        if not isinstance(body, str):
+            body = str(body)
+
+        body = body[:2000]
+
+        # ---------- Safe Subject ----------
+        subject = email.get("subject", "No Subject")
+
+        if not isinstance(subject, str):
+            subject = str(subject)
+
+        # ---------- Safe Sender ----------
+        sender = "Unknown Sender"
+
+        try:
+
+            from_data = email.get("from", [])
+
+            # Example:
+            # [('John', 'john@gmail.com')]
+
+            if isinstance(from_data, list) and len(from_data) > 0:
+
+                first_item = from_data[0]
+
+                if isinstance(first_item, (list, tuple)):
+
+                    if len(first_item) >= 2:
+                        sender = first_item[1]
+
+                    elif len(first_item) == 1:
+                        sender = first_item[0]
+
+                else:
+                    sender = str(first_item)
+
+            elif isinstance(from_data, str):
+
+                sender = from_data
+
+        except Exception:
+
+            sender = "Unknown Sender"
+
+        # ========================================================
+        #  EMAIL CARD UI
+        # ========================================================
         with st.container():
-            st.markdown('<div class="email-card">', unsafe_allow_html=True)
+
+            st.markdown(
+                '<div class="email-card">',
+                unsafe_allow_html=True
+            )
 
             col1, col2 = st.columns([3, 1])
+
             with col1:
+
                 st.subheader(f"📧 {subject}")
+
                 st.write(f"**From:** {sender}")
 
-            # ✅ Unpack verdict AND reason
+            # ====================================================
+            #  SPAM DETECTION
+            # ====================================================
             spam_result, spam_reason = is_spam(body)
 
             if spam_result:
+
                 st.session_state.spam_blocked += 1
+
                 update_metrics()
+
                 st.error("🚫 Spam Email Detected")
 
-                # ✅ Show reason on screen
+                # ---------- Show Reason ----------
                 if spam_reason:
+
                     st.markdown(
-                        f"""<div class="spam-reason">
-                            <div class="spam-reason-label">⚠ Detection Reason</div>
+                        f"""
+                        <div class="spam-reason">
+                            <div class="spam-reason-label">
+                                ⚠ Detection Reason
+                            </div>
                             {spam_reason}
-                        </div>""",
+                        </div>
+                        """,
                         unsafe_allow_html=True
                     )
 
+                # ---------- Log Spam ----------
                 log_scan_event(
-                    username     = st.session_state.get("user_name", "Unknown"),
-                    user_email   = st.session_state.user_email,
-                    subject      = subject,
-                    sender       = sender,
-                    is_spam      = True,
-                    spam_reasons = [spam_reason] if spam_reason else [],
+                    username=st.session_state.get(
+                        "user_name",
+                        "Unknown"
+                    ),
+                    user_email=st.session_state.user_email,
+                    subject=subject,
+                    sender=sender,
+                    is_spam=True,
+                    spam_reasons=[spam_reason]
+                    if spam_reason else [],
                 )
 
-                st.markdown('</div>', unsafe_allow_html=True)
+                st.markdown(
+                    '</div>',
+                    unsafe_allow_html=True
+                )
+
                 continue
 
+            # ====================================================
+            #  SAFE EMAIL LOGGING
+            # ====================================================
             log_scan_event(
-                username   = st.session_state.get("user_name", "Unknown"),
-                user_email = st.session_state.user_email,
-                subject    = subject,
-                sender     = sender,
-                is_spam    = False,
+                username=st.session_state.get(
+                    "user_name",
+                    "Unknown"
+                ),
+                user_email=st.session_state.user_email,
+                subject=subject,
+                sender=sender,
+                is_spam=False,
             )
 
+            # ====================================================
+            #  AI REPLY GENERATION
+            # ====================================================
             with st.spinner("🤖 Generating AI reply..."):
+
                 reply = generate_reply(body)
 
             st.session_state.replies_generated += 1
+
             update_metrics()
 
+            # ====================================================
+            #  REPLY BOX
+            # ====================================================
             st.markdown("### 🤖 AI Draft Reply")
+
             edited_reply = st.text_area(
                 "Edit reply before sending",
-                value=reply, height=180, key=f"reply_{idx}"
+                value=reply,
+                height=180,
+                key=f"reply_{idx}"
             )
 
-            if st.button(f"Send Reply to {sender}", key=f"send_{idx}"):
-                send_reply(sender, subject, edited_reply)
-                st.success("Reply sent successfully!")
+            # ====================================================
+            #  SEND BUTTON
+            # ====================================================
+            if st.button(
+                f"Send Reply to {sender}",
+                key=f"send_{idx}"
+            ):
 
-            st.markdown('</div>', unsafe_allow_html=True)
+                send_reply(
+                    sender,
+                    subject,
+                    edited_reply
+                )
+
+                st.success(
+                    "Reply sent successfully!"
+                )
+
+            st.markdown(
+                '</div>',
+                unsafe_allow_html=True
+            )
 
 # ================================================================
 #  TAB 2 — REPORTS
