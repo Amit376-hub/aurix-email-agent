@@ -232,7 +232,13 @@ with tab_inbox:
     for idx, email in enumerate(st.session_state.emails):
         body    = email["body"][:2000]
         subject = email["subject"]
-        sender  = email["from"][0][1]
+        sender = "Unknown"
+
+if email.get("from"):
+    try:
+        sender = email["from"][0][1]
+    except (IndexError, TypeError):
+        sender = str(email["from"])
 
         with st.container():
             st.markdown('<div class="email-card">', unsafe_allow_html=True)
