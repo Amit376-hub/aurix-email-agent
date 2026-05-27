@@ -69,7 +69,7 @@ def load_feedback():
     spam_samples, safe_samples = [], []
     if not os.path.exists(FEEDBACK_FILE):
         return spam_samples, safe_samples
-    with open(FEEDBACK_FILE, "r") as f:
+    with open(FEEDBACK_FILE, "r", encoding="utf-8", errors="ignore") as f:
         for line in f:
             if "::" in line:
                 label, content = line.strip().split("::", 1)
