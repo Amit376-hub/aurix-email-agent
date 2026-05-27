@@ -1,5 +1,16 @@
 from imapclient import IMAPClient
-import pyzmail36 as pyzmail
+import email
+from email.header import decode_header
+
+
+def decode_mime_words(s):
+
+    decoded_words = decode_header(s)
+
+    return ''.join(
+        str(word, encoding or 'utf-8') if isinstance(word, bytes) else word
+        for word, encoding in decoded_words
+    )
 
 
 def read_unread_emails(user_email, user_password):
@@ -7,9 +18,10 @@ def read_unread_emails(user_email, user_password):
     client = None
 
     try:
+
         print(f"Connecting to Gmail for {user_email}...")
 
-        # ✅ Use correct Gmail IMAP host
+        # Gmail IMAP server
         client = IMAPClient("imap.gmail.com", ssl=True)
 
         print("Logging in...")
@@ -20,39 +32,79 @@ def read_unread_emails(user_email, user_password):
 
         print("Fetching latest emails...")
 
-        # ✅ Get only recent emails (faster & safer)
+        # Fetch emails after this date
         messages = client.search(['SINCE', '01-Jan-2024'])
 
         if not messages:
             print("No emails found.")
             return []
 
-        # Latest 20 emails (reduce load)
+        # Get latest 20 emails
         latest_messages = sorted(messages, reverse=True)[:20]
 
         emails = []
 
         for uid in latest_messages:
 
-            raw_message = client.fetch(uid, ['BODY.PEEK[]'])
+            # Fetch raw email
+            raw_message = client.fetch([uid], ['BODY[]'])
 
-            message = pyzmail.PyzMessage.factory(
-                raw_message[uid][b'BODY[]']
+            raw_email = raw_message[uid][b'BODY[]']
+
+            # Convert raw email into message object
+            message = email.message_from_bytes(raw_email)
+
+            # Decode subject safely
+            subject = decode_mime_words(
+                message.get("Subject", "(No Subject)")
             )
 
-            subject = message.get_subject() or "(No Subject)"
-            from_email = message.get_addresses('from')
+            from_email = message.get("From", "Unknown Sender")
 
             body = ""
 
             try:
-                if message.text_part:
-                    body = message.text_part.get_payload().decode(errors="ignore")
 
-                elif message.html_part:
-                    body = message.html_part.get_payload().decode(errors="ignore")
+                if message.is_multipart():
+
+                    for part in message.walk():
+
+                        content_type = part.get_content_type()
+                        content_disposition = str(
+                            part.get("Content-Disposition")
+                        )
+
+                        if (
+                            content_type == "text/plain"
+                            and "attachment" not in content_disposition
+                        ):
+
+                            charset = (
+                                part.get_content_charset() or "utf-8"
+                            )
+
+                            body = part.get_payload(
+                                decode=True
+                            ).decode(
+                                charset,
+                                errors="ignore"
+                            )
+
+                            break
+
+                else:
+
+                    charset = message.get_content_charset() or "utf-8"
+
+                    body = message.get_payload(
+                        decode=True
+                    ).decode(
+                        charset,
+                        errors="ignore"
+                    )
 
             except Exception:
+
                 body = "Could not decode email body."
 
             emails.append({
@@ -67,23 +119,25 @@ def read_unread_emails(user_email, user_password):
 
     except Exception as e:
 
-        # 🔴 Better error visibility
         error_msg = str(e)
 
         if "AUTHENTICATIONFAILED" in error_msg:
+
             print("❌ Gmail login failed.")
-            print("👉 Check email & APP PASSWORD (not normal password).")
+            print("👉 Use Gmail APP PASSWORD only.")
 
         elif "timed out" in error_msg.lower():
-            print("❌ Connection timed out. Check internet.")
+
+            print("❌ Connection timed out.")
 
         else:
+
             print("❌ Error reading emails:", e)
 
         return []
 
     finally:
-        # ✅ Always close connection safely
+
         if client:
             try:
                 client.logout()

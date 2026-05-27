@@ -6,4 +6,3 @@ imapclient
 pandas
 numpy
 groq
-pyzmail36
