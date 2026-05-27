@@ -1,5 +1,5 @@
 from imapclient import IMAPClient
-import pyzmail
+import pyzmail36 as pyzmail
 
 
 def read_unread_emails(user_email, user_password):
